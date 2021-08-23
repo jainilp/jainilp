@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on startups, projects, research, overall on anything where I can help other people and myself.
 - 📫 How to reach me email me patel.jainil.b@gmail.com
 
-* Skills
+** Skills
 
 
 <!---
