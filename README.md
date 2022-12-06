@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jainilp
 - 👀 I’m interested in AI, ML, DL, Distributed Systems, Data Engineering, and a lot of other things.
-- 🌱 I’m currently learning Deep Learning/Neural Networks, Distributed Systems, CI/CD, and other things.
+- 🌱 I’m currently learning High Frequency Trading, and Computer Graphic Automation!
 - 💞️ I’m looking to collaborate on startups, projects, research, overall on anything where I can help other people and myself.
 - 📫 reach me at --> patel.jainil.b@gmail.com
 
